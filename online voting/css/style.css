@@ -1,0 +1,50 @@
+body{
+        
+        background-color: lightblue;
+        color: darkslategray;
+        font-family:Algerian  ;
+}
+img{
+    position: absolute;
+}
+#headersection{
+    padding: 30px;
+}
+#headersection h1{
+    font-family: Algerian;
+}
+input{
+    padding: 14px;
+    border-radius: 15px;
+}
+#box{
+    padding: 14px;
+    border-radius: 15px;
+}
+button{
+    padding: 12px;
+    border-radius: 16px;
+    background-color: cornflowerblue;
+    color: black;
+}
+select{
+    padding: 7px;
+    border-radius: 15px;
+}
+#add{
+    padding: 14px;
+    border-radius: 15px;
+    width: 350px;
+}
+#img{
+    width: 350px;
+    border: 2px solid black;
+    border-radius: 18px;
+    padding: 6px;
+}
+#role{
+    width: 336px;
+    border: 2px solid black;
+    border-radius: 18px;
+    padding: 14px
+}
